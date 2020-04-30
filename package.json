@@ -7,6 +7,6 @@
   "author": "christian gunvaldsen",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
